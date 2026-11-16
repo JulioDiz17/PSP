@@ -12,3 +12,4 @@ Actividades de PSP realizadas en Debian 13.
 ## Cómo compilar y ejecutar
     gcc nombre.c
     ./a.out
+![Ejecución del programa](C__.png)
